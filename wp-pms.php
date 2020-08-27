@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              http://www.google.com
- * @since             1.0.0
+ * @since             1.0.1
  * @package           Wp_Pms
  *
  * @wordpress-plugin
  * Plugin Name:       PMS-DEV
  * Plugin URI:        http://www.github.com
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Patrick Kühn
  * Author URI:        http://www.google.com
  * License:           GPL-2.0+
