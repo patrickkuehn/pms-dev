@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.table-header {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: blueviolet;
+}
+
+.cell-header {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+
+}
+
+.cell-header:hover {
+    background-color: darkgray;
+    text-decoration-color: blueviolet;
+}
+
